@@ -9,3 +9,4 @@ bash init.sh subproject-name
 [lecture note]: https://docs.ysyx.org/schedule.html
 # githubtest
 # githubtest
+# test
